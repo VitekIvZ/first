@@ -1,0 +1,7 @@
+#####
+kind: service
+### metadata
+spec:
+  containers:
+    image: docker
+    arg: 
