@@ -2,4 +2,6 @@
 kind: service
 ### metadata
 spec:
-  image: docker
+  containers:
+    image: docker
+    arg: 
