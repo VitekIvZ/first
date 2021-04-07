@@ -6,4 +6,3 @@ spec:
     image: docker
     arg: 
       - run
-      
